@@ -2,7 +2,7 @@
 
 # Cold (with a battery skin)
 
-A fork of the Rainmeter skin "Cold" by the DeviantArt user **@DD.921**, who seems to have deactivated their account. This fork includes a battery skin because I wanted one. If, by any chance, the original owner sees this and wants me to take it down, they can contact me through Reddit at u/jayylmao15.
+A fork of the Rainmeter skin "Cold" by the DeviantArt user **@DD.921**, who seems to have deactivated their account. This fork includes a battery skin because I wanted one. If, by any chance, the original owner sees this and wants me to take it down, they can contact me through Reddit at [u/jayylmao15](https://www.reddit.com/user/jayylmao15).
 
 ---
 
