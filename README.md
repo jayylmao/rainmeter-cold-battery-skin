@@ -1,8 +1,8 @@
 ![after hours](https://user-images.githubusercontent.com/73204320/201310556-7b5afe33-0300-4e31-b743-300cb5c543da.png)
 
-# rainmeter-cold-battery-meter
+# Cold (with a battery skin)
 
-A fork of the Rainmeter skin "Cold" by the DeviantArt user **@DD-921**, who seems to have deactivated their account. This fork includes a battery meter because I wanted one. If, by any chance, the original owner sees this and wants me to take it down, they can contact me through Reddit at u/jayylmao15.
+A fork of the Rainmeter skin "Cold" by the DeviantArt user **@DD-921**, who seems to have deactivated their account. This fork includes a battery skin because I wanted one. If, by any chance, the original owner sees this and wants me to take it down, they can contact me through Reddit at u/jayylmao15.
 
 ---
 
